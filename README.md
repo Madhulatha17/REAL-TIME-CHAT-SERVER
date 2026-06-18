@@ -62,18 +62,6 @@ Enables users to send and receive messages in real time.
 
 Triggered when a user leaves the server.
 
-## Project Structure
-
-```text
-REAL-TIME-CHAT-SERVER/
-│
-├── README.md
-├── package.json
-├── server.js
-├── SOCKET_EVENTS.md
-└── architecture.md
-```
-
 ## Deliverable
 
 A Node.js-based server capable of supporting real-time communication and multiple chat rooms using Socket.IO.
