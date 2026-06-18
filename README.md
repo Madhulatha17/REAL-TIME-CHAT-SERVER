@@ -1,7 +1,5 @@
 # REAL-TIME-CHAT-SERVER
 
-# Real-Time Chat Server
-
 ## Project Overview
 
 This project implements a real-time chat backend using Node.js, Express.js, and Socket.IO. The server enables instant communication between connected users and supports multiple chat rooms for organized conversations.
